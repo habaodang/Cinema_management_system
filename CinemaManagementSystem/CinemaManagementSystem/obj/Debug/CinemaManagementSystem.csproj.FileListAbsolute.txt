@@ -1,0 +1,14 @@
+D:\NAM 3\Ki2\LTCSDL\CinemaManagementSystem\CinemaManagementSystem\CinemaManagementSystem\bin\Debug\CinemaManagementSystem.exe.config
+D:\NAM 3\Ki2\LTCSDL\CinemaManagementSystem\CinemaManagementSystem\CinemaManagementSystem\bin\Debug\CinemaManagementSystem.exe
+D:\NAM 3\Ki2\LTCSDL\CinemaManagementSystem\CinemaManagementSystem\CinemaManagementSystem\bin\Debug\CinemaManagementSystem.pdb
+D:\NAM 3\Ki2\LTCSDL\CinemaManagementSystem\CinemaManagementSystem\CinemaManagementSystem\obj\Debug\CinemaManagementSystem.csproj.AssemblyReference.cache
+D:\NAM 3\Ki2\LTCSDL\CinemaManagementSystem\CinemaManagementSystem\CinemaManagementSystem\obj\Debug\CinemaManagementSystem.Form1.resources
+D:\NAM 3\Ki2\LTCSDL\CinemaManagementSystem\CinemaManagementSystem\CinemaManagementSystem\obj\Debug\CinemaManagementSystem.Properties.Resources.resources
+D:\NAM 3\Ki2\LTCSDL\CinemaManagementSystem\CinemaManagementSystem\CinemaManagementSystem\obj\Debug\CinemaManagementSystem.csproj.GenerateResource.cache
+D:\NAM 3\Ki2\LTCSDL\CinemaManagementSystem\CinemaManagementSystem\CinemaManagementSystem\obj\Debug\CinemaManagementSystem.csproj.CoreCompileInputs.cache
+D:\NAM 3\Ki2\LTCSDL\CinemaManagementSystem\CinemaManagementSystem\CinemaManagementSystem\obj\Debug\CinemaManagementSystem.exe
+D:\NAM 3\Ki2\LTCSDL\CinemaManagementSystem\CinemaManagementSystem\CinemaManagementSystem\obj\Debug\CinemaManagementSystem.pdb
+D:\NAM 3\Ki2\LTCSDL\CinemaManagementSystem\CinemaManagementSystem\CinemaManagementSystem\obj\Debug\CinemaManagementSystem.RegForm.resources
+D:\NAM 3\Ki2\LTCSDL\CinemaManagementSystem\CinemaManagementSystem\CinemaManagementSystem\obj\Debug\CinemaManagementSystem.AdminForm.resources
+D:\NAM 3\Ki2\LTCSDL\CinemaManagementSystem\CinemaManagementSystem\CinemaManagementSystem\obj\Debug\CinemaManagementSystem.DashboardForm.resources
+D:\NAM 3\Ki2\LTCSDL\CinemaManagementSystem\CinemaManagementSystem\CinemaManagementSystem\obj\Debug\CinemaManagementSystem.Staff.resources
