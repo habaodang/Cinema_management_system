@@ -55,7 +55,7 @@
             this.label1 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.DashboardForm_NewMovie_DGV = new System.Windows.Forms.DataGridView();
             this.label13 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.panel8.SuspendLayout();
@@ -71,7 +71,7 @@
             this.panel3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.DashboardForm_NewMovie_DGV)).BeginInit();
             this.SuspendLayout();
             // 
             // panel1
@@ -148,11 +148,11 @@
             this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label8.ForeColor = System.Drawing.Color.White;
             this.label8.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.label8.Location = new System.Drawing.Point(94, 23);
+            this.label8.Location = new System.Drawing.Point(97, 23);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(92, 29);
+            this.label8.Size = new System.Drawing.Size(64, 29);
             this.label8.TabIndex = 1;
-            this.label8.Text = "10, 0 tr";
+            this.label8.Text = "10 tr";
             // 
             // pictureBox3
             // 
@@ -349,17 +349,17 @@
             // panel2
             // 
             this.panel2.BackColor = System.Drawing.Color.White;
-            this.panel2.Controls.Add(this.dataGridView1);
+            this.panel2.Controls.Add(this.DashboardForm_NewMovie_DGV);
             this.panel2.Controls.Add(this.label13);
             this.panel2.Location = new System.Drawing.Point(14, 280);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(1024, 399);
             this.panel2.TabIndex = 0;
             // 
-            // dataGridView1
+            // DashboardForm_NewMovie_DGV
             // 
-            this.dataGridView1.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
-            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.DashboardForm_NewMovie_DGV.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
+            this.DashboardForm_NewMovie_DGV.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
             dataGridViewCellStyle1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(96)))), ((int)(((byte)(58)))), ((int)(((byte)(160)))));
             dataGridViewCellStyle1.Font = new System.Drawing.Font("Arial Narrow", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -367,17 +367,17 @@
             dataGridViewCellStyle1.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(235)))), ((int)(((byte)(227)))), ((int)(((byte)(39)))));
             dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
             dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dataGridView1.DefaultCellStyle = dataGridViewCellStyle1;
-            this.dataGridView1.Enabled = false;
-            this.dataGridView1.EnableHeadersVisualStyles = false;
-            this.dataGridView1.Location = new System.Drawing.Point(27, 59);
-            this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.RowHeadersVisible = false;
-            this.dataGridView1.RowHeadersWidth = 51;
-            this.dataGridView1.RowHeadersWidthSizeMode = System.Windows.Forms.DataGridViewRowHeadersWidthSizeMode.DisableResizing;
-            this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.Size = new System.Drawing.Size(988, 319);
-            this.dataGridView1.TabIndex = 2;
+            this.DashboardForm_NewMovie_DGV.DefaultCellStyle = dataGridViewCellStyle1;
+            this.DashboardForm_NewMovie_DGV.Enabled = false;
+            this.DashboardForm_NewMovie_DGV.EnableHeadersVisualStyles = false;
+            this.DashboardForm_NewMovie_DGV.Location = new System.Drawing.Point(27, 59);
+            this.DashboardForm_NewMovie_DGV.Name = "DashboardForm_NewMovie_DGV";
+            this.DashboardForm_NewMovie_DGV.RowHeadersVisible = false;
+            this.DashboardForm_NewMovie_DGV.RowHeadersWidth = 51;
+            this.DashboardForm_NewMovie_DGV.RowHeadersWidthSizeMode = System.Windows.Forms.DataGridViewRowHeadersWidthSizeMode.DisableResizing;
+            this.DashboardForm_NewMovie_DGV.RowTemplate.Height = 24;
+            this.DashboardForm_NewMovie_DGV.Size = new System.Drawing.Size(988, 319);
+            this.DashboardForm_NewMovie_DGV.TabIndex = 2;
             // 
             // label13
             // 
@@ -419,7 +419,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.DashboardForm_NewMovie_DGV)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -452,7 +452,7 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.Label label11;
-        private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.DataGridView DashboardForm_NewMovie_DGV;
         private System.Windows.Forms.Label label13;
     }
 }

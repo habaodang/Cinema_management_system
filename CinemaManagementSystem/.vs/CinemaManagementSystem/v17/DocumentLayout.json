@@ -3,52 +3,8 @@
   "WorkspaceRootPath": "D:\\NAM 3\\Ki2\\LTCSDL\\CinemaManagementSystem\\CinemaManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F6AC24B-AE2C-487C-A863-C3168CA83715}|CinemaManagementSystem\\CinemaManagementSystem.csproj|d:\\nam 3\\ki2\\ltcsdl\\cinemamanagementsystem\\cinemamanagementsystem\\cinemamanagementsystem\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2F6AC24B-AE2C-487C-A863-C3168CA83715}|CinemaManagementSystem\\CinemaManagementSystem.csproj|solutionrelative:cinemamanagementsystem\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F6AC24B-AE2C-487C-A863-C3168CA83715}|CinemaManagementSystem\\CinemaManagementSystem.csproj|D:\\NAM 3\\Ki2\\LTCSDL\\CinemaManagementSystem\\CinemaManagementSystem\\cinemamanagementsystem\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F6AC24B-AE2C-487C-A863-C3168CA83715}|CinemaManagementSystem\\CinemaManagementSystem.csproj|solutionrelative:cinemamanagementsystem\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2F6AC24B-AE2C-487C-A863-C3168CA83715}|CinemaManagementSystem\\CinemaManagementSystem.csproj|D:\\NAM 3\\Ki2\\LTCSDL\\CinemaManagementSystem\\CinemaManagementSystem\\cinemamanagementsystem\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F6AC24B-AE2C-487C-A863-C3168CA83715}|CinemaManagementSystem\\CinemaManagementSystem.csproj|solutionrelative:cinemamanagementsystem\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F6AC24B-AE2C-487C-A863-C3168CA83715}|CinemaManagementSystem\\CinemaManagementSystem.csproj|D:\\NAM 3\\Ki2\\LTCSDL\\CinemaManagementSystem\\CinemaManagementSystem\\cinemamanagementsystem\\regform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2F6AC24B-AE2C-487C-A863-C3168CA83715}|CinemaManagementSystem\\CinemaManagementSystem.csproj|solutionrelative:cinemamanagementsystem\\regform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F6AC24B-AE2C-487C-A863-C3168CA83715}|CinemaManagementSystem\\CinemaManagementSystem.csproj|D:\\NAM 3\\Ki2\\LTCSDL\\CinemaManagementSystem\\CinemaManagementSystem\\cinemamanagementsystem\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2F6AC24B-AE2C-487C-A863-C3168CA83715}|CinemaManagementSystem\\CinemaManagementSystem.csproj|solutionrelative:cinemamanagementsystem\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F6AC24B-AE2C-487C-A863-C3168CA83715}|CinemaManagementSystem\\CinemaManagementSystem.csproj|D:\\NAM 3\\Ki2\\LTCSDL\\CinemaManagementSystem\\CinemaManagementSystem\\cinemamanagementsystem\\staffdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F6AC24B-AE2C-487C-A863-C3168CA83715}|CinemaManagementSystem\\CinemaManagementSystem.csproj|solutionrelative:cinemamanagementsystem\\staffdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F6AC24B-AE2C-487C-A863-C3168CA83715}|CinemaManagementSystem\\CinemaManagementSystem.csproj|D:\\NAM 3\\Ki2\\LTCSDL\\CinemaManagementSystem\\CinemaManagementSystem\\cinemamanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F6AC24B-AE2C-487C-A863-C3168CA83715}|CinemaManagementSystem\\CinemaManagementSystem.csproj|solutionrelative:cinemamanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F6AC24B-AE2C-487C-A863-C3168CA83715}|CinemaManagementSystem\\CinemaManagementSystem.csproj|D:\\NAM 3\\Ki2\\LTCSDL\\CinemaManagementSystem\\CinemaManagementSystem\\cinemamanagementsystem\\regform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F6AC24B-AE2C-487C-A863-C3168CA83715}|CinemaManagementSystem\\CinemaManagementSystem.csproj|solutionrelative:cinemamanagementsystem\\regform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F6AC24B-AE2C-487C-A863-C3168CA83715}|CinemaManagementSystem\\CinemaManagementSystem.csproj|D:\\NAM 3\\Ki2\\LTCSDL\\CinemaManagementSystem\\CinemaManagementSystem\\cinemamanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2F6AC24B-AE2C-487C-A863-C3168CA83715}|CinemaManagementSystem\\CinemaManagementSystem.csproj|solutionrelative:cinemamanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F6AC24B-AE2C-487C-A863-C3168CA83715}|CinemaManagementSystem\\CinemaManagementSystem.csproj|D:\\NAM 3\\Ki2\\LTCSDL\\CinemaManagementSystem\\CinemaManagementSystem\\cinemamanagementsystem\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F6AC24B-AE2C-487C-A863-C3168CA83715}|CinemaManagementSystem\\CinemaManagementSystem.csproj|solutionrelative:cinemamanagementsystem\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F6AC24B-AE2C-487C-A863-C3168CA83715}|CinemaManagementSystem\\CinemaManagementSystem.csproj|D:\\NAM 3\\Ki2\\LTCSDL\\CinemaManagementSystem\\CinemaManagementSystem\\cinemamanagementsystem\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2F6AC24B-AE2C-487C-A863-C3168CA83715}|CinemaManagementSystem\\CinemaManagementSystem.csproj|solutionrelative:cinemamanagementsystem\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F6AC24B-AE2C-487C-A863-C3168CA83715}|CinemaManagementSystem\\CinemaManagementSystem.csproj|D:\\NAM 3\\Ki2\\LTCSDL\\CinemaManagementSystem\\CinemaManagementSystem\\cinemamanagementsystem\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F6AC24B-AE2C-487C-A863-C3168CA83715}|CinemaManagementSystem\\CinemaManagementSystem.csproj|solutionrelative:cinemamanagementsystem\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,152 +14,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RegForm.cs [Design]",
-              "DocumentMoniker": "D:\\NAM 3\\Ki2\\LTCSDL\\CinemaManagementSystem\\CinemaManagementSystem\\CinemaManagementSystem\\RegForm.cs",
-              "RelativeDocumentMoniker": "CinemaManagementSystem\\RegForm.cs",
-              "ToolTip": "D:\\NAM 3\\Ki2\\LTCSDL\\CinemaManagementSystem\\CinemaManagementSystem\\CinemaManagementSystem\\RegForm.cs [Design]",
-              "RelativeToolTip": "CinemaManagementSystem\\RegForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T14:42:52.943Z"
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Staff.cs",
               "DocumentMoniker": "D:\\NAM 3\\Ki2\\LTCSDL\\CinemaManagementSystem\\CinemaManagementSystem\\CinemaManagementSystem\\Staff.cs",
               "RelativeDocumentMoniker": "CinemaManagementSystem\\Staff.cs",
               "ToolTip": "D:\\NAM 3\\Ki2\\LTCSDL\\CinemaManagementSystem\\CinemaManagementSystem\\CinemaManagementSystem\\Staff.cs",
               "RelativeToolTip": "CinemaManagementSystem\\Staff.cs",
-              "ViewState": "AgIAAG4AAAAAAAAAAAAhwHwAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAEwHwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T11:54:58.38Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RegistrationForm.cs",
-              "DocumentMoniker": "D:\\NAM 3\\Ki2\\LTCSDL\\CinemaManagementSystem\\CinemaManagementSystem\\CinemaManagementSystem\\RegistrationForm.cs",
-              "RelativeDocumentMoniker": "CinemaManagementSystem\\RegistrationForm.cs",
-              "ToolTip": "D:\\NAM 3\\Ki2\\LTCSDL\\CinemaManagementSystem\\CinemaManagementSystem\\CinemaManagementSystem\\RegistrationForm.cs",
-              "RelativeToolTip": "CinemaManagementSystem\\RegistrationForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T12:06:16.826Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Staff.cs [Design]",
-              "DocumentMoniker": "D:\\NAM 3\\Ki2\\LTCSDL\\CinemaManagementSystem\\CinemaManagementSystem\\CinemaManagementSystem\\Staff.cs",
-              "RelativeDocumentMoniker": "CinemaManagementSystem\\Staff.cs",
-              "ToolTip": "D:\\NAM 3\\Ki2\\LTCSDL\\CinemaManagementSystem\\CinemaManagementSystem\\CinemaManagementSystem\\Staff.cs [Design]",
-              "RelativeToolTip": "CinemaManagementSystem\\Staff.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T11:30:00.597Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\NAM 3\\Ki2\\LTCSDL\\CinemaManagementSystem\\CinemaManagementSystem\\CinemaManagementSystem\\Form1.cs",
-              "RelativeDocumentMoniker": "CinemaManagementSystem\\Form1.cs",
-              "ToolTip": "D:\\NAM 3\\Ki2\\LTCSDL\\CinemaManagementSystem\\CinemaManagementSystem\\CinemaManagementSystem\\Form1.cs",
-              "RelativeToolTip": "CinemaManagementSystem\\Form1.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDQAAAB/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T11:56:07.774Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\NAM 3\\Ki2\\LTCSDL\\CinemaManagementSystem\\CinemaManagementSystem\\CinemaManagementSystem\\Form1.cs",
-              "RelativeDocumentMoniker": "CinemaManagementSystem\\Form1.cs",
-              "ToolTip": "D:\\NAM 3\\Ki2\\LTCSDL\\CinemaManagementSystem\\CinemaManagementSystem\\CinemaManagementSystem\\Form1.cs [Design]",
-              "RelativeToolTip": "CinemaManagementSystem\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T11:55:55.936Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AdminForm.cs [Design]",
-              "DocumentMoniker": "D:\\NAM 3\\Ki2\\LTCSDL\\CinemaManagementSystem\\CinemaManagementSystem\\CinemaManagementSystem\\AdminForm.cs",
-              "RelativeDocumentMoniker": "CinemaManagementSystem\\AdminForm.cs",
-              "ToolTip": "D:\\NAM 3\\Ki2\\LTCSDL\\CinemaManagementSystem\\CinemaManagementSystem\\CinemaManagementSystem\\AdminForm.cs [Design]",
-              "RelativeToolTip": "CinemaManagementSystem\\AdminForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T14:41:19.324Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StaffData.cs",
-              "DocumentMoniker": "D:\\NAM 3\\Ki2\\LTCSDL\\CinemaManagementSystem\\CinemaManagementSystem\\CinemaManagementSystem\\StaffData.cs",
-              "RelativeDocumentMoniker": "CinemaManagementSystem\\StaffData.cs",
-              "ToolTip": "D:\\NAM 3\\Ki2\\LTCSDL\\CinemaManagementSystem\\CinemaManagementSystem\\CinemaManagementSystem\\StaffData.cs",
-              "RelativeToolTip": "CinemaManagementSystem\\StaffData.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAzwB4AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T12:24:13.338Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RegForm.cs",
-              "DocumentMoniker": "D:\\NAM 3\\Ki2\\LTCSDL\\CinemaManagementSystem\\CinemaManagementSystem\\CinemaManagementSystem\\RegForm.cs",
-              "RelativeDocumentMoniker": "CinemaManagementSystem\\RegForm.cs",
-              "ToolTip": "D:\\NAM 3\\Ki2\\LTCSDL\\CinemaManagementSystem\\CinemaManagementSystem\\CinemaManagementSystem\\RegForm.cs",
-              "RelativeToolTip": "CinemaManagementSystem\\RegForm.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAowGkAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T12:06:21.882Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AdminForm.cs",
-              "DocumentMoniker": "D:\\NAM 3\\Ki2\\LTCSDL\\CinemaManagementSystem\\CinemaManagementSystem\\CinemaManagementSystem\\AdminForm.cs",
-              "RelativeDocumentMoniker": "CinemaManagementSystem\\AdminForm.cs",
-              "ToolTip": "D:\\NAM 3\\Ki2\\LTCSDL\\CinemaManagementSystem\\CinemaManagementSystem\\CinemaManagementSystem\\AdminForm.cs",
-              "RelativeToolTip": "CinemaManagementSystem\\AdminForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T14:41:32.535Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DashboardForm.cs",
-              "DocumentMoniker": "D:\\NAM 3\\Ki2\\LTCSDL\\CinemaManagementSystem\\CinemaManagementSystem\\CinemaManagementSystem\\DashboardForm.cs",
-              "RelativeDocumentMoniker": "CinemaManagementSystem\\DashboardForm.cs",
-              "ToolTip": "D:\\NAM 3\\Ki2\\LTCSDL\\CinemaManagementSystem\\CinemaManagementSystem\\CinemaManagementSystem\\DashboardForm.cs",
-              "RelativeToolTip": "CinemaManagementSystem\\DashboardForm.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T10:14:14.254Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DashboardForm.cs [Design]",
-              "DocumentMoniker": "D:\\NAM 3\\Ki2\\LTCSDL\\CinemaManagementSystem\\CinemaManagementSystem\\CinemaManagementSystem\\DashboardForm.cs",
-              "RelativeDocumentMoniker": "CinemaManagementSystem\\DashboardForm.cs",
-              "ToolTip": "D:\\NAM 3\\Ki2\\LTCSDL\\CinemaManagementSystem\\CinemaManagementSystem\\CinemaManagementSystem\\DashboardForm.cs [Design]",
-              "RelativeToolTip": "CinemaManagementSystem\\DashboardForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T10:08:24.027Z"
             }
           ]
         }

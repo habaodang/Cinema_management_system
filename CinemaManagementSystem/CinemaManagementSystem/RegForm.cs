@@ -39,8 +39,8 @@ namespace CinemaManagementSystem
         }
         private void reg_ShowPw_CheckedChanged(object sender, EventArgs e)
         {
-            txtnewpw.PasswordChar = reg_ShowPw.Checked ? '\0' :'*';
-            txtConfirmpw.PasswordChar = reg_ShowPw.Checked ? '\0' : '*';
+            RegForm_newPw_Txt.PasswordChar = RegForm_showPw_ChkBox.Checked ? '\0' :'*';
+            RegForm_confirmPw_Txt.PasswordChar = RegForm_showPw_ChkBox.Checked ? '\0' : '*';
 
         }
 
@@ -51,15 +51,15 @@ namespace CinemaManagementSystem
 
         private void btreg_Click(object sender, EventArgs e)
         {
-            if (txtreg_username.Text =="" || txtnewpw.Text =="" || txtConfirmpw.Text =="")
+            if (RegForm_username_Txt.Text =="" || RegForm_newPw_Txt.Text =="" || RegForm_confirmPw_Txt.Text =="")
             {
                 MessageBox.Show("Vui lòng điền đầy đủ thông tin", "Error Message",MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
-            else if(txtnewpw.Text != txtConfirmpw .Text)
+            else if(RegForm_newPw_Txt.Text != RegForm_confirmPw_Txt .Text)
             {
                 MessageBox.Show("Mật khẩu nhập lại phải giống mật khẩu", "Error Message", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
-            else if(txtnewpw.Text.Length < 8)
+            else if(RegForm_newPw_Txt.Text.Length < 8)
             {
                 MessageBox.Show("Phải có kí tự đặc biệt, hoa, thường, số và trên 8 kí tự!", "Error Message", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
@@ -71,15 +71,15 @@ namespace CinemaManagementSystem
                     string checkUsername = "SELECT * FROM USERS WHERE username = @usern";
                     using (SqlCommand checkUsern = new SqlCommand(checkUsername, connect))
                     {
-                        checkUsern.Parameters.AddWithValue("@usern", txtreg_username.Text.Trim());
+                        checkUsern.Parameters.AddWithValue("@usern", RegForm_username_Txt.Text.Trim());
                         SqlDataAdapter adapter = new SqlDataAdapter(checkUsern);
                         DataTable table = new DataTable();
                         adapter.Fill(table);
 
                         if (table.Rows.Count > 0)
                         {
-                            MessageBox.Show(txtreg_username.Text.Substring(0,1).ToUpper() 
-                                + txtreg_username.Text.Substring(1) + " đã tồn tại ", "Error Message", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                            MessageBox.Show(RegForm_username_Txt.Text.Substring(0,1).ToUpper() 
+                                + RegForm_username_Txt.Text.Substring(1) + " đã tồn tại ", "Error Message", MessageBoxButtons.OK, MessageBoxIcon.Error);
                         }
                         else
                         {
@@ -89,8 +89,8 @@ namespace CinemaManagementSystem
 
                             using (SqlCommand cmd = new SqlCommand(insertData, connect))
                             {
-                                cmd.Parameters.AddWithValue("@usern", txtreg_username.Text.Trim());
-                                cmd.Parameters.AddWithValue("@pass", txtnewpw.Text.Trim());
+                                cmd.Parameters.AddWithValue("@usern", RegForm_username_Txt.Text.Trim());
+                                cmd.Parameters.AddWithValue("@pass", RegForm_newPw_Txt.Text.Trim());
                                 cmd.Parameters.AddWithValue("@role", "Staff");
                                 cmd.Parameters.AddWithValue("@status", "Active");
                                 cmd.Parameters.AddWithValue("@date", today);

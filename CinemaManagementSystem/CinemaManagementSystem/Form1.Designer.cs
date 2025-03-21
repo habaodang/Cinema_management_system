@@ -32,13 +32,13 @@
             this.close = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.txt_login_username = new System.Windows.Forms.TextBox();
+            this.Form1_username_Txt = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
-            this.txt_login_pw = new System.Windows.Forms.TextBox();
-            this.login_showpw = new System.Windows.Forms.CheckBox();
-            this.btlogin = new System.Windows.Forms.Button();
+            this.Form1_pw_Txt = new System.Windows.Forms.TextBox();
+            this.Form1_showPw_ChkBox = new System.Windows.Forms.CheckBox();
+            this.Form1_Login_Btn = new System.Windows.Forms.Button();
             this.label4 = new System.Windows.Forms.Label();
-            this.bt_login_signup = new System.Windows.Forms.Button();
+            this.Form1_sigBtn_Btn = new System.Windows.Forms.Button();
             this.label5 = new System.Windows.Forms.Label();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.label6 = new System.Windows.Forms.Label();
@@ -49,7 +49,7 @@
             // 
             this.close.AutoSize = true;
             this.close.Font = new System.Drawing.Font("Arial Rounded MT Bold", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.close.Location = new System.Drawing.Point(342, 9);
+            this.close.Location = new System.Drawing.Point(373, 9);
             this.close.Name = "close";
             this.close.Size = new System.Drawing.Size(21, 21);
             this.close.TabIndex = 1;
@@ -59,7 +59,7 @@
             // label1
             // 
             this.label1.Font = new System.Drawing.Font("Arial", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(12, 126);
+            this.label1.Location = new System.Drawing.Point(12, 139);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(286, 30);
             this.label1.TabIndex = 1;
@@ -68,92 +68,92 @@
             // label2
             // 
             this.label2.Font = new System.Drawing.Font("Arial", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(12, 172);
+            this.label2.Location = new System.Drawing.Point(12, 192);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(270, 21);
             this.label2.TabIndex = 1;
             this.label2.Text = "Tài khoản, Email hoặc số điện thoại";
             // 
-            // txt_login_username
+            // Form1_username_Txt
             // 
-            this.txt_login_username.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txt_login_username.Location = new System.Drawing.Point(16, 196);
-            this.txt_login_username.Name = "txt_login_username";
-            this.txt_login_username.Size = new System.Drawing.Size(341, 30);
-            this.txt_login_username.TabIndex = 1;
+            this.Form1_username_Txt.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Form1_username_Txt.Location = new System.Drawing.Point(35, 231);
+            this.Form1_username_Txt.Name = "Form1_username_Txt";
+            this.Form1_username_Txt.Size = new System.Drawing.Size(341, 30);
+            this.Form1_username_Txt.TabIndex = 1;
             // 
             // label3
             // 
             this.label3.Font = new System.Drawing.Font("Arial", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(12, 252);
+            this.label3.Location = new System.Drawing.Point(12, 284);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(270, 21);
             this.label3.TabIndex = 1;
             this.label3.Text = "Mật khẩu";
             // 
-            // txt_login_pw
+            // Form1_pw_Txt
             // 
-            this.txt_login_pw.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txt_login_pw.Location = new System.Drawing.Point(16, 276);
-            this.txt_login_pw.Name = "txt_login_pw";
-            this.txt_login_pw.PasswordChar = '*';
-            this.txt_login_pw.Size = new System.Drawing.Size(341, 30);
-            this.txt_login_pw.TabIndex = 2;
+            this.Form1_pw_Txt.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Form1_pw_Txt.Location = new System.Drawing.Point(35, 325);
+            this.Form1_pw_Txt.Name = "Form1_pw_Txt";
+            this.Form1_pw_Txt.PasswordChar = '*';
+            this.Form1_pw_Txt.Size = new System.Drawing.Size(341, 30);
+            this.Form1_pw_Txt.TabIndex = 2;
             // 
-            // login_showpw
+            // Form1_showPw_ChkBox
             // 
-            this.login_showpw.AutoSize = true;
-            this.login_showpw.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F);
-            this.login_showpw.Location = new System.Drawing.Point(16, 320);
-            this.login_showpw.Name = "login_showpw";
-            this.login_showpw.Size = new System.Drawing.Size(113, 20);
-            this.login_showpw.TabIndex = 3;
-            this.login_showpw.Text = "Xem mật khẩu";
-            this.login_showpw.UseVisualStyleBackColor = true;
-            this.login_showpw.CheckedChanged += new System.EventHandler(this.login_showpw_CheckedChanged);
+            this.Form1_showPw_ChkBox.AutoSize = true;
+            this.Form1_showPw_ChkBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F);
+            this.Form1_showPw_ChkBox.Location = new System.Drawing.Point(16, 381);
+            this.Form1_showPw_ChkBox.Name = "Form1_showPw_ChkBox";
+            this.Form1_showPw_ChkBox.Size = new System.Drawing.Size(113, 20);
+            this.Form1_showPw_ChkBox.TabIndex = 3;
+            this.Form1_showPw_ChkBox.Text = "Xem mật khẩu";
+            this.Form1_showPw_ChkBox.UseVisualStyleBackColor = true;
+            this.Form1_showPw_ChkBox.CheckedChanged += new System.EventHandler(this.login_showpw_CheckedChanged);
             // 
-            // btlogin
+            // Form1_Login_Btn
             // 
-            this.btlogin.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(235)))), ((int)(((byte)(227)))), ((int)(((byte)(39)))));
-            this.btlogin.FlatAppearance.BorderSize = 0;
-            this.btlogin.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(96)))), ((int)(((byte)(58)))), ((int)(((byte)(160)))));
-            this.btlogin.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(96)))), ((int)(((byte)(58)))), ((int)(((byte)(160)))));
-            this.btlogin.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btlogin.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btlogin.ForeColor = System.Drawing.Color.Black;
-            this.btlogin.Location = new System.Drawing.Point(16, 358);
-            this.btlogin.Name = "btlogin";
-            this.btlogin.Size = new System.Drawing.Size(341, 47);
-            this.btlogin.TabIndex = 4;
-            this.btlogin.Text = "ĐĂNG NHẬP";
-            this.btlogin.UseVisualStyleBackColor = false;
-            this.btlogin.Click += new System.EventHandler(this.btlogin_Click);
+            this.Form1_Login_Btn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(235)))), ((int)(((byte)(227)))), ((int)(((byte)(39)))));
+            this.Form1_Login_Btn.FlatAppearance.BorderSize = 0;
+            this.Form1_Login_Btn.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(96)))), ((int)(((byte)(58)))), ((int)(((byte)(160)))));
+            this.Form1_Login_Btn.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(96)))), ((int)(((byte)(58)))), ((int)(((byte)(160)))));
+            this.Form1_Login_Btn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Form1_Login_Btn.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Form1_Login_Btn.ForeColor = System.Drawing.Color.Black;
+            this.Form1_Login_Btn.Location = new System.Drawing.Point(35, 429);
+            this.Form1_Login_Btn.Name = "Form1_Login_Btn";
+            this.Form1_Login_Btn.Size = new System.Drawing.Size(341, 47);
+            this.Form1_Login_Btn.TabIndex = 4;
+            this.Form1_Login_Btn.Text = "ĐĂNG NHẬP";
+            this.Form1_Login_Btn.UseVisualStyleBackColor = false;
+            this.Form1_Login_Btn.Click += new System.EventHandler(this.btlogin_Click);
             // 
             // label4
             // 
             this.label4.Font = new System.Drawing.Font("Arial", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(135, 422);
+            this.label4.Location = new System.Drawing.Point(135, 492);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(163, 21);
             this.label4.TabIndex = 1;
             this.label4.Text = "Tạo tài khoản mới";
             // 
-            // bt_login_signup
+            // Form1_sigBtn_Btn
             // 
-            this.bt_login_signup.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(235)))), ((int)(((byte)(227)))), ((int)(((byte)(39)))));
-            this.bt_login_signup.FlatAppearance.BorderSize = 0;
-            this.bt_login_signup.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(96)))), ((int)(((byte)(58)))), ((int)(((byte)(160)))));
-            this.bt_login_signup.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(96)))), ((int)(((byte)(58)))), ((int)(((byte)(160)))));
-            this.bt_login_signup.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.bt_login_signup.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bt_login_signup.ForeColor = System.Drawing.Color.Black;
-            this.bt_login_signup.Location = new System.Drawing.Point(12, 446);
-            this.bt_login_signup.Name = "bt_login_signup";
-            this.bt_login_signup.Size = new System.Drawing.Size(341, 47);
-            this.bt_login_signup.TabIndex = 4;
-            this.bt_login_signup.Text = "Đăng ký tại đây";
-            this.bt_login_signup.UseVisualStyleBackColor = false;
-            this.bt_login_signup.Click += new System.EventHandler(this.bt_login_signup_Click);
+            this.Form1_sigBtn_Btn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(235)))), ((int)(((byte)(227)))), ((int)(((byte)(39)))));
+            this.Form1_sigBtn_Btn.FlatAppearance.BorderSize = 0;
+            this.Form1_sigBtn_Btn.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(96)))), ((int)(((byte)(58)))), ((int)(((byte)(160)))));
+            this.Form1_sigBtn_Btn.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(96)))), ((int)(((byte)(58)))), ((int)(((byte)(160)))));
+            this.Form1_sigBtn_Btn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Form1_sigBtn_Btn.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Form1_sigBtn_Btn.ForeColor = System.Drawing.Color.Black;
+            this.Form1_sigBtn_Btn.Location = new System.Drawing.Point(35, 531);
+            this.Form1_sigBtn_Btn.Name = "Form1_sigBtn_Btn";
+            this.Form1_sigBtn_Btn.Size = new System.Drawing.Size(341, 47);
+            this.Form1_sigBtn_Btn.TabIndex = 4;
+            this.Form1_sigBtn_Btn.Text = "Đăng ký tại đây";
+            this.Form1_sigBtn_Btn.UseVisualStyleBackColor = false;
+            this.Form1_sigBtn_Btn.Click += new System.EventHandler(this.bt_login_signup_Click);
             // 
             // label5
             // 
@@ -186,17 +186,17 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(23)))), ((int)(((byte)(42)))));
-            this.ClientSize = new System.Drawing.Size(374, 582);
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(90)))), ((int)(((byte)(90)))), ((int)(((byte)(170)))));
+            this.ClientSize = new System.Drawing.Size(406, 617);
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.label6);
-            this.Controls.Add(this.bt_login_signup);
-            this.Controls.Add(this.btlogin);
-            this.Controls.Add(this.login_showpw);
-            this.Controls.Add(this.txt_login_pw);
+            this.Controls.Add(this.Form1_sigBtn_Btn);
+            this.Controls.Add(this.Form1_Login_Btn);
+            this.Controls.Add(this.Form1_showPw_ChkBox);
+            this.Controls.Add(this.Form1_pw_Txt);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
-            this.Controls.Add(this.txt_login_username);
+            this.Controls.Add(this.Form1_username_Txt);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label1);
@@ -217,13 +217,13 @@
         private System.Windows.Forms.Label close;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.TextBox txt_login_username;
+        private System.Windows.Forms.TextBox Form1_username_Txt;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.TextBox txt_login_pw;
-        private System.Windows.Forms.CheckBox login_showpw;
-        private System.Windows.Forms.Button btlogin;
+        private System.Windows.Forms.TextBox Form1_pw_Txt;
+        private System.Windows.Forms.CheckBox Form1_showPw_ChkBox;
+        private System.Windows.Forms.Button Form1_Login_Btn;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.Button bt_login_signup;
+        private System.Windows.Forms.Button Form1_sigBtn_Btn;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.Label label6;

@@ -48,7 +48,7 @@ namespace CinemaManagementSystem
 
         private void btlogin_Click(object sender, EventArgs e)
         {
-            if(txt_login_username.Text == "" || txt_login_pw.Text =="")
+            if(Form1_username_Txt.Text == "" || Form1_pw_Txt.Text =="")
             {
                 MessageBox.Show("Vui lòng điền đầy đủ thông tin", "Error Message", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
@@ -63,8 +63,8 @@ namespace CinemaManagementSystem
 
                     using (SqlCommand cmd = new SqlCommand(selectData,connect))
                     {
-                        cmd.Parameters.AddWithValue("@usern", txt_login_username.Text.Trim());
-                        cmd.Parameters.AddWithValue("@pass", txt_login_pw.Text.Trim());
+                        cmd.Parameters.AddWithValue("@usern", Form1_username_Txt.Text.Trim());
+                        cmd.Parameters.AddWithValue("@pass", Form1_pw_Txt.Text.Trim());
 
                         SqlDataAdapter adapter = new SqlDataAdapter(cmd);
                         DataTable table = new DataTable();
@@ -90,7 +90,7 @@ namespace CinemaManagementSystem
 
         private void login_showpw_CheckedChanged(object sender, EventArgs e)
         {
-            txt_login_pw.PasswordChar = login_showpw.Checked ? '\0' : '*';
+            Form1_pw_Txt.PasswordChar = Form1_showPw_ChkBox.Checked ? '\0' : '*';
         }
 
     }
